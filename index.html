@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feria de Ciencias 4to Año</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img class="school-logo" src="./logos/escuela.png" alt="Logo de la Escuela">
+            <div class="header-text">
+                <h1>Feria de Ciencias</h1>
+                <p>Proyectos de 4to Año</p>
+                <p class="subtitle">Espacios Curriculares: Programación II y Diseño de Interfaces y Usabilidad</p>
+            </div>
+            <div>
+                <img class="fair-logo" src="./logos/feria.png" alt="Logo de la Feria">
+            </div>
+        </div>
+
+        <div class="projects-grid">
+            <div class="project-card" onclick="navigateToProject('fitlife')">
+                <div ><img class="logo" src="./logos/fitlife.png" alt=""></div>
+                <h3>FitLife</h3>
+                <p>Aplicación para el seguimiento de rutinas de ejercicio y bienestar personal. Monitoreo de progreso y consejos de salud.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+
+            <div class="project-card" onclick="navigateToProject('turnero')">
+                <div ><img class="logo" src="./logos/turneroestrella.png" alt=""></div>
+                <h3>Turnero Estrella</h3>
+                <p>Sistema de gestión de turnos inteligente para optimizar tiempos de espera y mejorar la experiencia del usuario.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+
+            <div class="project-card" onclick="navigateToProject('fitgo')">
+                <div ><img class="logo" src="./logos/fitgo.png" alt=""></div>
+                <h3>FitGo</h3>
+                <p>Plataforma móvil para encontrar y reservar actividades deportivas cerca de tu ubicación. Conecta con otros deportistas.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+
+            <div class="project-card" onclick="navigateToProject('eco-oceano')">
+                <div ><img class="logo" src="./logos/ecooceano.png" alt=""></div>
+                <h3>Eco Océano</h3>
+                <p>Proyecto de concientización sobre la contaminación marina y herramientas para el cuidado de nuestros océanos.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+
+            <div class="project-card" onclick="navigateToProject('greenup')">
+                <div ><img class="logo" src="./logos/greenup.png" alt=""></div>
+                <h3>GreenUp</h3>
+                <p>Aplicación para fomentar hábitos ecológicos y sostenibles. Seguimiento de huella de carbono y tips verdes.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+
+            <div class="project-card" onclick="navigateToProject('basurar')">
+                <div ><img class="logo" src="./logos/basurar.png" alt=""></div>
+                <h3>BasurAr</h3>
+                <p>Sistema inteligente de gestión de residuos. Clasificación automática y optimización de rutas de recolección.</p>
+                <span class="coming-soon">Próximamente</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
