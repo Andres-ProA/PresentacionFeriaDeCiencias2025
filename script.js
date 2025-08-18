@@ -1,6 +1,6 @@
 // URLs de los proyectos
 const projectUrls = {
-    'fitlife': 'fitlife.html',
+    'fitlife': 'antocastillo.github.io/fitlife/',
     'turnero': 'turnero-estrella.html',
     'fitgo': 'fitgo.html',
     'eco-oceano': 'eco-oceano.html',
@@ -14,10 +14,10 @@ const projectUrls = {
  */
 function navigateToProject(projectName) {
     // Mensaje temporal mientras no existen las páginas
-    alert(`Navegando a ${projectName.toUpperCase()}...\nPróximamente disponible en: ${projectUrls[projectName]}`);
+    //alert(`Navegando a ${projectName.toUpperCase()}...\nPróximamente disponible en: ${projectUrls[projectName]}`);
     
     // Cuando tengas las páginas, descomenta esta línea y comenta el alert
-    // window.location.href = projectUrls[projectName];
+    window.location.href = projectUrls[projectName];
 }
 
 /**
