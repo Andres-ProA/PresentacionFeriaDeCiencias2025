@@ -1,9 +1,9 @@
 // URLs de los proyectos
 const projectUrls = {
-    'fitlife': 'antocastillo.github.io/fitlife/',
+    'fitlife': 'https://antocastillo.github.io/fitlife/',
     'turnero': 'turnero-estrella.html',
     'fitgo': 'fitgo.html',
-    'eco-oceano': 'eco-oceano.html',
+    'eco-oceano': 'https://brunoquialvo.github.io/eco_oceano/',
     'greenup': 'greenup.html',
     'basurar': 'basurar.html'
 };
