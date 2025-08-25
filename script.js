@@ -5,7 +5,7 @@ const projectUrls = {
     'fitgo': 'fitgo.html',
     'eco-oceano': 'https://brunoquialvo.github.io/eco_oceano/',
     'greenup': 'greenup.html',
-    'basurar': 'basurar.html'
+    'basurar': 'https://saramika01.github.io/BasurAr/'
 };
 
 // ===== VARIABLES GLOBALES =====
