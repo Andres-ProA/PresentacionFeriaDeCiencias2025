@@ -4,7 +4,7 @@ const projectUrls = {
     'turnero': 'https://torii-5.github.io/turnero_estrella/',
     'fitgo': 'fitgo.html',
     'eco-oceano': 'https://brunoquialvo.github.io/eco_oceano/',
-    'greenup': 'greenup.html',
+    'greenup': 'https://woody1913.github.io/proyecto-web-GREENUP/',
     'basurar': 'https://saramika01.github.io/BasurAr/'
 };
 
