@@ -1,7 +1,7 @@
 // ===== CONFIGURACIÓN DE PROYECTOS =====
 const projectUrls = {
     'fitlife': 'https://antocastillo.github.io/fitlife/',
-    'turnero': 'turnero-estrella.html',
+    'turnero': 'https://torii-5.github.io/turnero_estrella/',
     'fitgo': 'fitgo.html',
     'eco-oceano': 'https://brunoquialvo.github.io/eco_oceano/',
     'greenup': 'greenup.html',
