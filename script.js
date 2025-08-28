@@ -2,7 +2,7 @@
 const projectUrls = {
     'fitlife': 'https://antocastillo.github.io/fitlife/',
     'turnero': 'https://torii-5.github.io/turnero_estrella/',
-    'fitgo': 'fitgo.html',
+    'fitgo': 'https://maisi297.github.io/Fitgo/index.html',
     'eco-oceano': 'https://brunoquialvo.github.io/eco_oceano/',
     'greenup': 'https://woody1913.github.io/proyecto-web-GREENUP/',
     'basurar': 'https://saramika01.github.io/BasurAr/'
